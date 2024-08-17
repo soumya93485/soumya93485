@@ -1,5 +1,5 @@
 
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=726FF7&width=435&lines=Hi+i'm+Soumya;+Quick+learner;Full+stack+developer;Front_end+developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=109DF7&center=true&width=435&lines=%F0%9F%91%8BHii+I'm+Soumya;Qucik+learner%F0%9F%A4%97;Full+stack+developer%F0%9F%8C%8E;Front_end+developer%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
 
