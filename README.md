@@ -65,7 +65,7 @@
  <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya93485&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="soumya"/>
 
- <img align="left" width="600" src="https://github-readme-stats.vercel.app/api?username=pramodjena&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="soumya" /></p> 
+ <img align="left" width="600" src="https://github-readme-stats.vercel.app/api?username=soumya93485&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="soumya" /></p> 
 
  <a href="https://github.com/soumya93485/github-readme-stats">
  <img align="left" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya93485&&theme=highcontrast" alt="soumyaranjan nayak" />
